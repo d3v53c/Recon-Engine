@@ -1,0 +1,7 @@
+*__pycache__
+*.vscode
+*logs
+*test
+*.com
+*.txt
+*results
